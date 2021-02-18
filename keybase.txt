@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/camilleroth
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://camille.roth.free.fr
+  * I am camilleroth (https://keybase.io/camilleroth) on keybase.
+  * I have a public key ASDLPzCEdh0NNqYuelg9SRFPfXFgaY9RwLMlh66fiXTgnAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120cb3f3084761d0d36a62e7a583d49114f7d7160698f51c0b32587ae9f8974e09c0a",
+      "host": "keybase.io",
+      "kid": "0120cb3f3084761d0d36a62e7a583d49114f7d7160698f51c0b32587ae9f8974e09c0a",
+      "uid": "c5c995f7081ce27c11179ecbcab02b19",
+      "username": "camilleroth"
+    },
+    "merkle_root": {
+      "ctime": 1568186270,
+      "hash": "f9e3c05d1d7a1d79026a8266db0ed77d8eecd8004356a0bece5fc6d5538b7af942a2c4c8519fc8dc70022933e71b81da85d174d58bdf2cfe35b02b9e669bd78d",
+      "hash_meta": "ee3bb78cc07f9961d071aab0a37851aa72177a455c64b1c0b900757f64530238",
+      "seqno": 6628139
+    },
+    "service": {
+      "entropy": "5wW6/X9z984OL3AQv6QOP98c",
+      "hostname": "camille.roth.free.fr",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568186287,
+  "expire_in": 504576000,
+  "prev": "5c70de0ade3713449f89d2f024d8adf377c509f6d6f63859b9347257f8975a5e",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgyz8whHYdDTamLnpYPUkRT31xYGmPUcCzJYeun4l04JwKp3BheWxvYWTESpcCFMQgXHDeCt43E0SfidLwJNit83fFCfbW9jhZuTRyV/iXWl7EINL41V5IYVgkT7ODvgProkCD7eY3bjrRzmC6548kOQWFAgHCo3NpZ8RAmvDIOaaVASgv+3TGJ59wabP2yz+il8EFQsaktvU3aINg+gv3rsc2mKWe++HjwkZLIG4DHMuHP0iM93361B8cDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIONp3eW70vTGmKfBy7Q/DwJKqrIPrVsr03rV5bAQj3jUo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/camilleroth
+
+==================================================================
